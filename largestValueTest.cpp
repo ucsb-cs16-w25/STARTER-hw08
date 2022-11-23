@@ -24,5 +24,5 @@ int main() {
         a4->next = a5;
         a5->next = NULL;
 
-        assertEquals(100, recursiveLargestValue(a1), "Sum of 5->-12->0->100->-3");
+        assertEquals(100, recursiveLargestValue(a1), "Largest of 5->-12->0->100->-3");
 }
