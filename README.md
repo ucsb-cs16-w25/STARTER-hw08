@@ -1,3 +1,3 @@
-# STARTER-gsa07
+# STARTER-gsa08
 
-See:  <https://ucsb-cs16.github.io/w24/gsa07/>
+See:  <https://ucsb-cs16.github.io/s24/gsa08.html>
